@@ -1,0 +1,30 @@
+body {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    background-color: #48042a;
+    height: 100vh;
+    color: #ffffff;
+}
+h2{
+    padding-top: var(--primary-color);
+    box-shadow: 0 4px 17px rgb(213, 108, 10);
+    text-align: center;
+    text-shadow: #770745;
+    color:#f56cb7;
+    text-indent: 0%;
+}
+
+
+#seemore{
+    position: absolute;
+    color: #210414;
+    background-color: beige;
+    padding-inline-start: 0cap;
+}
+
+
+#seeless{
+    position: absolute;
+    color: #210414;
+    background-color: beige;
+}
+
